@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Trang HTML5</title>
+    <meta charset="UTF-8">
+</head>
 
-You can use the [editor on GitHub](https://github.com/daotuyendev/daotuyendev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<header>
+    <nav>
+        <ul>
+            <li>Menu</li>
+        </ul>
+    </nav>
+</header>
 
-### Markdown
+<section>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <article>
+        <header>
+            <h2>Article title</h2>
+            <p>Posted on <time datetime="2009-09-04T16:31:24+02:00">September 4th 2009</time> by <a href="#">Writer</a> - <a href="#comments">6 comments</a></p>
+        </header>
+        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+    </article>
 
-```markdown
-Syntax highlighted code block
+    <article>
+        <header>
+            <h2>Article title</h2>
+            <p>Posted on <time datetime="2009-09-04T16:31:24+02:00">September 4th 2009</time> by <a href="#">Writer</a> - <a href="#comments">6 comments</a></p>
+        </header>
+        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+    </article>
 
-# Header 1
-## Header 2
-### Header 3
+</section>
 
-- Bulleted
-- List
+<aside>
+    <h2>About section</h2>
+    <p>Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+</aside>
 
-1. Numbered
-2. List
+<footer>
+    <p>Copyright 2017</p>
+</footer>
 
-**Bold** and _Italic_ and `Code` text
+</body>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daotuyendev/daotuyendev.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
