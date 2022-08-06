@@ -1,12 +1,3 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-    <title>Trang HTML5</title>
-    <meta charset="UTF-8">
-</head>
-
-<body>
-
 <header>
     <nav>
         <ul>
@@ -43,7 +34,3 @@
 <footer>
     <p>Copyright 2017</p>
 </footer>
-
-</body>
-
-</html>
